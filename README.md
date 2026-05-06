@@ -27,3 +27,5 @@ A simple Android app showcasing aquarium animals using **ViewPager2** + **TabLay
 ---
 
 Part of my Hyperskill Android learning journey.
+
+👤 [My GitHub](https://github.com/Lamboorg) · 🎓 [My Hyperskill profile](https://hyperskill.org/profile/627979498)
